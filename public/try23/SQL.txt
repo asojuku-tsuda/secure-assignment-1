@@ -1,4 +1,0 @@
-CREATE TABLE resetlock (
-  email VARCHAR(255) PRIMARY KEY,
-  locktime DATETIME
-);

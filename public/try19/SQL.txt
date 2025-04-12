@@ -1,3 +1,0 @@
-ALTER TABLE User
-ADD COLUMN errorcount INT(11) DEFAULT 0,
-ADD COLUMN errortime DATETIME;
